@@ -1,0 +1,21 @@
+section h1 {
+  background-color: rgb(20, 173, 211);
+}
+
+h1{
+  background-color: red;
+  
+}
+
+header :hover{
+  color: pink;
+  
+}
+
+header{
+  text-align: center;
+}
+
+body{
+  font-family: 'Major Mono Display', monospace;
+}
